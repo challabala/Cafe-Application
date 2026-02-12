@@ -17,19 +17,28 @@ This project showcases clean component architecture, route-based navigation, int
 
 ### Hero / Brand Feel
 
-![Brew Haven Hero](https://images.unsplash.com/photo-1521017432531-fbd92d768814?auto=format&fit=crop&w=1600&q=80)
+![Brew Haven Hero](src/assets/hero.png)
 
 ### Menu Showcase
 
-![Coffee Menu](https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=1400&q=80)
+![Coffee Menu](src/assets/menu.png)
 
 ### Cafe Ambience
 
-![Cafe Interior](https://images.unsplash.com/photo-1554118811-1e0d58224f24?auto=format&fit=crop&w=1400&q=80)
+![Cafe Interior](src/assets/ambience.png)
 
 ### Team / Story Tone
 
-![Team Portrait Style](https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&w=1200&q=80)
+![Team Portrait Style](src/assets/team.png)
+
+### Add Your Screenshots
+
+Put your images in `src/assets/` using these exact names:
+
+- `hero.png`
+- `menu.png`
+- `ambience.png`
+- `team.png`
 
 ## Tech Stack
 
@@ -105,5 +114,5 @@ npm run preview
 
 ## Notes
 
-- Image assets in this demo are loaded from Unsplash and RandomUser links for presentation purposes.
+- In-app content images are loaded from Unsplash and RandomUser links for demo purposes.
 - Business details shown (address, contact info, names) are sample content for portfolio/demo use.
